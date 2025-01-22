@@ -14,15 +14,6 @@ ports:
 options:
   config_id: "9a15c6"
   listen: "0.0.0.0:53"
-  log_level: "info"
 schema:
   config_id: str
   listen: str
-  log_level:
-    type: string
-    choices:
-      - "debug"
-      - "info"
-      - "warn"
-      - "error"
-      - "fatal"
