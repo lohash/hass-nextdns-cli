@@ -1,5 +1,6 @@
 {
   "build_from": {
-    "amd64": "nextdns/nextdns:latest-amd64"
+    "amd64": "zydou/nextdns:latest"
+    "armv7": "zydou/nextdns:latest"
   }
 }
