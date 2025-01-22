@@ -8,6 +8,7 @@ arch:
 startup: "services"
 boot: "auto"
 host_network: true,
+init: false
 ports:
   53/udp: 53
   53/tcp: 53
