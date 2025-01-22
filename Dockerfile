@@ -1,4 +1,4 @@
-ARG BUILD_FROM=nextdns/nextdns/amd64:latest
+ARG BUILD_FROM
 # Define the base image for Home Assistant Add-ons
 FROM ${BUILD_FROM}
 
