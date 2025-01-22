@@ -1,0 +1,1 @@
+# lohash Home Assistant repo
