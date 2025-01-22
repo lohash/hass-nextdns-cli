@@ -1,7 +1,0 @@
-{
-  "build_from": {
-    "amd64": "nextdns/nextdns:amd64-latest",
-    "armv7": "nextdns/nextdns:armv7-latest",
-    "arm64": "nextdns/nextdns:arm64-latest"
-  }
-}
