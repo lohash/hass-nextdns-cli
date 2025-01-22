@@ -5,7 +5,6 @@ slug: "nextdns_addon"
 arch:
   - amd64
   - armv7
-  - arm64
 startup: "services"
 boot: "auto"
 ports:
