@@ -1,1 +1,1 @@
-# hass-nextdns-cli
+# lohash Home Assistant repo
