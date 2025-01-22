@@ -21,8 +21,8 @@ schema:
   log_level:
     type: string
     choices:
-      - debug
-      - info
-      - warn
-      - error
-      - fatal
+      - "debug"
+      - "info"
+      - "warn"
+      - "error"
+      - "fatal"
